@@ -1,6 +1,6 @@
 # Customer_Churn_Prediction
 
-**Aim of the project** is to tell the our customer about their customer behaviour towards the organization they are from and help them to build a **Machine Learning** model that tells them the detailed analysis of their customers.
+**Aim of the project** is to tell our customer about their behaviour towards the organization they are from and help them to build a **Machine Learning** model that tells them the detailed analysis of their customers.
 
 **Data Set**
 The data is of a company website which always crowded by customers with their personal details,membership account etc.
